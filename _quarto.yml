@@ -1,0 +1,13 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Alina Pukhovskaya – Portfolio"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-location: right
+    css: styles.css

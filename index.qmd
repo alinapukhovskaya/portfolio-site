@@ -1,0 +1,82 @@
+---
+title: "MBA Student Portfolio"
+author: "Alina Pukhovskaya"
+format:
+  html:
+    toc: true
+    toc-location: right
+    toc-title: "On this page"
+    theme: cosmo
+    fontsize: 11pt
+    smooth-scroll: true
+    css: styles.css
+page-layout: full
+---
+![](images/alina-headshot.jpg){width="120px" .headshot}
+
+
+# **Alina Pukhovskaya, MBA, PhD**
+**Digital Workplace Strategist | Knowledge Management Leader**  
+North Vancouver, BC | [LinkedIn](https://www.linkedin.com/in/alinapukhovskaya) | [www.alinapukhovskaya.com](https://alinapukhovskaya.com)
+
+
+
+<div class="section-card">
+
+## **About**
+
+I am a digital workplace strategist and knowledge management consultant with over 15 years of international experience across North America, Europe, and Asia.  
+My work focuses on helping organizations enhance collaboration, adopt AI tools, and align knowledge practices with strategic goals.  
+
+I am currently pursuing my MBA at University Canada West and I combine academic research on AI in education with hands-on experience leading digital transformation initiatives in large enterprises.  
+I am passionate about making knowledge systems work smarter - so people can, too.
+
+</div>
+
+<div class="section-card">
+
+## **Education**
+
+**Master of Business Administration (MBA)**  
+*University Canada West, Vancouver* - *Expected 2025*
+
+**Ph.D. in Economics**  
+*University of Vitez, Bosnia and Herzegovina* - *2018*
+
+**Diplom-Kauffrau (Equivalent to MBA)**  
+*University of Saarland, Germany* - *2010*
+
+</div>
+
+<div class="section-card">
+
+## **Professional Highlights**
+
+### **Research Assistant**  
+*University Canada West, Vancouver* - *2025 to Present*  
+Contribute to academic projects on AI in education. Co-author publications and analyze qualitative data using NVivo.
+
+### **Manager, Knowledge Management**  
+*KPMG US (IT Department), Mexico City* - *2020 to 2024*  
+Led digital transformation for a 2,500-employee IT division. Championed AI adoption, redesigned governance frameworks, and optimized collaboration platforms serving 9,000+ users.
+
+### **Knowledge and Productivity Consultant**  
+*Coreso Collaborative / Self-Employed, Vancouver* - *2020 to Present*  
+Provide consulting and training on knowledge management, AI tools, and productivity strategies for global clients.
+
+</div>
+
+<div class="section-card">
+
+## **Key Skills and Strengths**
+
+- Digital Workplace Transformation  
+- Knowledge Management  
+- AI-Enabled Collaboration  
+- Process Improvement  
+- Project Leadership  
+- Cross-Functional Team Management  
+- Research and Data Analysis  
+- Multilingual Communication (English, Russian, Spanish, German)
+
+</div>

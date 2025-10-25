@@ -1,0 +1,178 @@
+
+/* ---------- CSS Variables ---------- */
+:root{
+  --bg: #ffffff;
+  --text: #1f2a37;            /* deep slate */
+  --muted: #6b7280;           /* gray-500 */
+  --line: #e5e7eb;            /* gray-200 */
+  --accent: #2a6fff;          /* calm blue accent */
+  --accent-600: #1f53c9;
+  --accent-50: #eef4ff;
+
+  --maxw: 880px;              /* readable line width */
+  --radius: 14px;
+  --shadow: 0 6px 24px rgba(2, 6, 23, .06);
+}
+
+/* ---------- Base ---------- */
+html, body{
+  background: var(--bg);
+  color: var(--text);
+}
+
+body{
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+  line-height: 1.6;
+  letter-spacing: .1px;
+}
+
+main.content{
+  max-width: var(--maxw);
+  margin: 2rem auto 6rem auto;
+  padding: 0 1.2rem;
+}
+
+/* ---------- Title Block ---------- */
+.quarto-title-block{
+  margin-top: 1.2rem;
+  margin-bottom: 1.6rem;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: .8rem;
+}
+
+.quarto-title-block .title{
+  font-weight: 800;
+  letter-spacing: .3px;
+  color: var(--text);
+}
+
+.quarto-title-block .author{
+  color: var(--muted);
+  font-weight: 500;
+}
+
+/* ---------- Headings ---------- */
+h1, h2, h3{
+  color: var(--text);
+  line-height: 1.25;
+}
+
+h1{ font-size: 1.85rem; margin-top: 1.4rem; }
+h2{ font-size: 1.35rem; margin-top: 1.6rem; }
+h3{ font-size: 1.12rem; margin-top: 1.2rem; color: #111827; }
+
+section > p:first-of-type{
+  margin-top: .4rem;
+}
+
+/* ---------- Links ---------- */
+a{
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: color .15s ease, border-color .15s ease, background-color .15s ease;
+}
+
+a:hover{
+  color: var(--accent-600);
+  border-bottom-color: var(--accent-600);
+  background: var(--accent-50);
+}
+
+/* ---------- Lists ---------- */
+ul, ol{
+  padding-left: 1.2rem;
+}
+li{ margin: .2rem 0; }
+
+/* ---------- Cards for sections (subtle) ---------- */
+.section-card{
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 1.0rem 1.2rem;
+  box-shadow: var(--shadow);
+  margin: 1.2rem 0;
+}
+
+/* ---------- Optional headshot ---------- */
+img.headshot{
+  float: right;
+  margin: .2rem 0 1rem 1rem;
+  border-radius: 50%;
+  border: 1px solid var(--line);
+  box-shadow: 0 4px 16px rgba(0,0,0,.06);
+}
+
+/* ---------- Horizontal rule ---------- */
+hr{
+  border: 0;
+  border-top: 1px solid var(--line);
+  margin: 1.8rem 0;
+}
+
+/* ---------- Table of Contents on the right ---------- */
+#TOC,
+.sidebar,
+nav#TOC{
+  border-left: 1px solid var(--line);
+  padding-left: 1rem;
+}
+
+.toc-actions{
+  display: none;
+}
+
+@media (min-width: 1200px){
+  nav#TOC.toc-active,
+  #TOC{
+    position: sticky;
+    top: 1.5rem;
+    max-height: calc(100vh - 2rem);
+    overflow: auto;
+  }
+}
+
+#TOC a{
+  color: var(--muted);
+  border: none;
+}
+#TOC a:hover{
+  color: var(--accent-600);
+  background: transparent;
+}
+
+#TOC .active > a{
+  color: var(--accent);
+  font-weight: 600;
+}
+
+/* ---------- Code & inline code ---------- */
+code{
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 6px;
+  padding: .1rem .35rem;
+  font-size: .92em;
+}
+
+/* ---------- Blockquotes ---------- */
+blockquote{
+  border-left: 4px solid var(--accent);
+  background: var(--accent-50);
+  padding: .6rem .9rem;
+  color: #0f172a;
+  border-radius: 8px;
+}
+
+/* ---------- Callouts (Quarto) ---------- */
+.callout{
+  border-radius: var(--radius);
+}
+
+/* ---------- Print tweaks ---------- */
+@media print{
+  a{ color: #000; border: none; }
+  #TOC{ display: none !important; }
+  main.content{ margin: 0; }
+}
