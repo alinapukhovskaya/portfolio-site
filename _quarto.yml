@@ -1,7 +1,8 @@
 project:
   type: website
   output-dir: docs
-
+  resources:
+    - downloads/**
 
 website:
   title: "MBA Student Portfolio"
