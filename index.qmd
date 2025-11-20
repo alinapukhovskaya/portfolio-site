@@ -17,7 +17,7 @@ page-layout: full
 
 # **Alina Pukhovskaya, MBA, PhD**
 **Digital Workplace Strategist | Knowledge Management Leader**  
-North Vancouver, BC | [LinkedIn](https://www.linkedin.com/in/alinapukhovskaya) | [www.alinapukhovskaya.com](https://alinapukhovskaya.com)
+North Vancouver, BC | [LinkedIn](https://www.linkedin.com/in/alinapukhovskaya) | [www.alinapukhovskaya.com](https://alinapukhovskaya.com) | <a class="btn btn-outline-light btn-sm" href="downloads/JuanCamilo_Resume.pdf" target="_blank"><i class="bi bi-file-earmark-pdf"></i> Download Resume</a>
 
 
 
