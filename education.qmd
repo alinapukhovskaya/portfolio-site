@@ -1,0 +1,32 @@
+---
+format:
+  html:
+    theme: cosmo
+    fontsize: 11pt
+    smooth-scroll: true
+    css: styles.css
+---
+![](images/alina-headshot.jpg){width="120px" .headshot}
+
+
+# **Dr. Alina Pukhovskaya**
+**Digital Workplace and AI Strategist**  
+North Vancouver, BC | [LinkedIn](https://www.linkedin.com/in/alinapukhovskaya) | [Download Resume](downloads/CV_Alina_Pukhovskaya_2025.pdf)
+
+
+
+<div class="section-card">
+
+## **Education**
+
+**Master of Business Administration (MBA)**  
+*University Canada West, Vancouver* - *Expected 2026*
+
+**Ph.D. in Economics**  
+*University of Vitez, Bosnia and Herzegovina* - *2018*
+
+**Diplom-Kauffrau (Equivalent to MBA)**  
+*University of Saarland, Germany* - *2010*
+
+</div>
+

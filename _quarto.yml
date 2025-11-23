@@ -6,10 +6,25 @@ project:
 
 website:
   title: "MBA Student Portfolio"
+  navbar:
+      left:
+        - href: index.qmd
+          text: Home
+        - href: resume.qmd
+          text: Resume
+        - href: education.qmd
+          text: Education
+        - href: skills.qmd
+          text: Skills
 
+  page-footer:
+      left: "<span id='y'></span>Dr. Alina Pukhovskaya"
+    
+      
 format:
   html:
     theme: cosmo
     toc: true
     toc-location: right
+    page-layout: article
     css: styles.css

@@ -92,7 +92,12 @@ li{ margin: .2rem 0; }
   border-radius: var(--radius);
   padding: 1.0rem 1.2rem;
   box-shadow: var(--shadow);
-  margin: 1.2rem 0;
+  margin: 1.2rem auto;   /* center the card */
+
+  /* ★ Added to control width */
+  max-width: 900px;      /* upper limit (make wider if needed) */
+  min-width: 600px;      /* lower limit so it never shrinks too much */
+  width: 100%;           /* allows responsive expansion */
 }
 
 /* ---------- Optional headshot ---------- */

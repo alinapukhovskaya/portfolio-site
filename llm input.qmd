@@ -1,0 +1,327 @@
+## **Commentary on Changes**
+
+
+The revised MBA Student Portfolio
+
+
+The revised MBA Student Portfolio comes with a more refined and publication-ready version of the earlier LLM draft. The revised version is better formatted, with all information organized into a single, easily readable online layout. The geographic regions listed in the revised version have been updated from "North America, Europe, and Asia" to "North America, Europe, Middle East, and Asia." The proposed completion date of the MBA degree program has been revised from 2025 to 2026. The "About" section of the revised version is \slightly rewritten for better readability, stressing the combination of research work as an academic pursuit and experience in the field of consulting. I removed graphics, outline information, and explanatory text in order to have a more professional, publication-ready document. The revised version appears more natural in its text flow, more harmonious with online publishing guidelines, as well as more personal than the earlier LLM outline-format draft.
+
+## **LLM Output**
+
+Here’s a full outline for your MBA portfolio site, tailored to your real profile and CV.
+
+---
+
+## 1. Site Structure (Pages)
+
+1. **Home / About**
+2. **Resume / CV**
+3. **Projects & Case Studies**
+4. **Skills & Certifications**
+5. **Contact**
+6. **Optional:** Research & Publications
+7. **Optional:** Leadership, Mentoring & Community
+
+You can start with the first 5 and add 6–7 later.
+
+---
+
+## 2. Home / About
+
+**Purpose:** Quick “snapshot” of who you are, what you do, and what you’re looking for next.
+
+**Sections:**
+
+1. **Hero Section**
+
+   * Name and titles:
+     *“Alina Pukhovskaya, MBA, PhD”*
+     *“Digital Workplace & AI Adoption Strategist”*
+   * One-sentence positioning:
+     “I help global organizations improve collaboration, knowledge flows, and AI adoption across teams.”
+   * Call-to-action buttons:
+
+     * “View Resume” (links to CV page)
+     * “Explore Projects” (links to Projects page)
+
+2. **Current Focus**
+
+   * 2–3 short paragraphs:
+
+     * MBA candidate at University Canada West, focusing on digital transformation and AI in education.
+     * Research Assistant working on AI in education and student experience.
+     * Consulting and training on knowledge management, AI tools, and productivity strategies.
+
+3. **Professional Snapshot**
+
+   * 3–4 highlighted stats:
+
+     * “15+ years of international experience across North America, Europe, Asia.”
+     * “Led knowledge management operations for 2,500+ IT staff in KPMG US.”
+     * “Optimized collaboration tools for 9,000+ users, reducing inactive accounts by 5,000.”
+     * “Mentored 30+ professionals in productivity and knowledge workflows with measurable improvements.”
+
+4. **International Journey**
+
+   * Short narrative about living and working in Germany, Hong Kong/China, Mexico, and Canada.
+   * Emphasis on cross-cultural communication and multilingual work (English, Russian, Spanish, German).
+
+5. **What I’m Looking For**
+
+   * A brief section describing target roles:
+
+     * Digital workplace / collaboration strategist
+     * Knowledge management / AI adoption roles
+     * Research and education-focused roles linked to AI and learning
+
+---
+
+## 3. Resume / CV Page
+
+**Purpose:** Rich, readable resume plus a downloadable PDF.
+
+**Sections:**
+
+1. **Downloadable CV**
+
+   * Button: “Download Full CV (PDF)”
+   * Short note: “Latest updated: [Month Year].”
+
+2. **Professional Summary**
+
+   * 4–5 lines summarizing:
+
+     * Digital workplace transformation
+     * Knowledge management
+     * AI adoption
+     * Cross-functional leadership and research experience
+
+3. **Experience Timeline**
+   Present in reverse chronological order, each with role, organization, location, dates, and key bullets (2–4 per role):
+
+   * **Research Assistant – University Canada West, Vancouver, Canada (2025 – Present)**
+
+     * Research on AI in education and student perception of AI feedback.
+     * NVivo coding and thematic analysis.
+     * Co-authoring and submitting articles to academic journals.
+
+   * **Knowledge & Productivity Consultant – Self-Employed, Vancouver, Canada (2020 – Present)**
+
+     * Consulting and training on knowledge management, AI tools, and productivity for corporate and individual clients.
+     * Mentoring 30+ professionals in APAC, with measurable improvements in productivity and knowledge workflows.
+     * Multilingual workshops and coaching.
+
+   * **Manager, Knowledge Management – KPMG US, Mexico City, Mexico (2020 – 2024)**
+
+     * Leading KM operations for IT department of 2,500 employees.
+     * Driving adoption of AI and GenAI tools through training, newsletters, webinars, and hackathons.
+     * Optimizing collaboration platforms for 9,000+ users and delivering cost savings.
+
+   * **Partner & Principal Consultant – Terra Colligo Latam, Mexico City, Mexico (2017 – 2019)**
+
+     * ERP/CRM implementation and process redesign for SMEs.
+     * Leading digital transformation and change management initiatives.
+
+   * **Operations & Business Development Manager – The World Trader, Mexico City, Mexico (2012 – 2014)**
+
+     * Building operational processes and online channels.
+     * Implementing green marketing strategies.
+
+   * **Risk Executive – EOS Hong Kong Limited, Hong Kong (2010 – 2012)**
+
+     * Designing risk assessment processes and conducting client due diligence.
+     * Representing the company at international trade shows.
+
+4. **Education**
+
+   * MBA – University Canada West, Vancouver, Canada (Expected 2025)
+   * PhD in Economics – University of Vitez, Bosnia and Herzegovina (2018)
+   * Diplom-Kauffrau (equivalent to MBA) – University of Saarland, Germany (2010)
+
+5. **Certifications**
+
+   * KCS Foundation, KCS Academy (2021)
+   * Space for future certifications (e.g., AI / Microsoft / project management).
+
+6. **Languages**
+
+   * English (Fluent), Russian (Fluent), Spanish (Fluent), German (Fluent).
+
+---
+
+## 4. Projects & Case Studies
+
+**Purpose:** Show how you think and what you actually did, with outcomes.
+
+Structure: Each case study with the same template:
+
+* Context
+* Challenge
+* Actions
+* Results / Impact
+* Tools & Methods
+
+**Suggested case studies from your background:**
+
+1. **Case Study 1 – Digital Workplace Optimization for IT Department**
+
+   * Context: KPMG US IT department, 2,500 employees, 9,000+ users of collaboration platforms.
+   * Challenge: Fragmented tools, inactive accounts, unclear governance.
+   * Actions: Redesigned governance framework; cleaned up accounts; drove adoption of collaboration tools.
+   * Results: Reduced inactive accounts by ~5,000 and generated significant annual savings.
+   * Tools: MS Teams, SharePoint, Confluence, ServiceNow.
+   * Theme: Knowledge management, digital workplace transformation, cost optimization.
+
+2. **Case Study 2 – AI & GenAI Adoption Program**
+
+   * Context: Same KPMG environment.
+   * Challenge: Make AI tools understandable and useful for non-technical staff.
+   * Actions: Designed newsletters, internal webinars, training materials, and a hackathon focused on AI use cases.
+   * Results: Increased awareness and use of AI tools, new ideas for process automation.
+   * Theme: AI adoption strategy, change management.
+
+3. **Case Study 3 – Productivity Mentoring Program (Forte Labs Course)**
+
+   * Context: 30+ professionals across APAC participating in a productivity course.
+   * Challenge: Help busy professionals improve time management and knowledge workflows.
+   * Actions: 1:1 mentoring, practical workflows, digital organization systems.
+   * Results: 85% reported measurable improvements in productivity and knowledge workflows.
+   * Theme: Coaching, productivity systems, behavior change.
+
+4. **Case Study 4 – ERP Implementation for SMEs**
+
+   * Context: Terra Colligo Latam consulting engagements.
+   * Challenge: SMEs lacking integrated systems for finance, inventory, and operations.
+   * Actions: Process mapping, requirement gathering, Odoo ERP configuration, training.
+   * Results: Improved reporting, reduced manual work, better visibility into operations.
+   * Theme: Digital transformation, business process redesign.
+
+5. **Case Study 5 – AI in Education Research Project**
+
+   * Context: Research at University Canada West on AI-generated feedback and student perceptions.
+   * Challenge: Understand how students perceive AI-graded feedback and fairness.
+   * Actions: Co-designing study, NVivo coding of interviews, drafting and submitting academic paper.
+   * Results: Manuscript submitted to a peer-reviewed journal; findings on student trust and fairness perceptions.
+   * Theme: Research design, qualitative methods, AI in education.
+
+---
+
+## 5. Skills & Certifications Page
+
+**Purpose:** Make your capabilities scannable for recruiters and hiring managers.
+
+**Sections:**
+
+1. **Core Competencies**
+   Grouped clusters, each with short descriptive text:
+
+   * Digital Workplace Transformation
+   * Knowledge Management & Content Governance
+   * AI Adoption & Digital Transformation
+   * Project Management & Process Improvement
+   * Research & Data Analysis (including qualitative NVivo work)
+   * Cross-Functional Leadership & Mentoring
+   * Multilingual Communication & Cross-cultural Collaboration
+
+2. **Technical & Tools**
+
+   * Collaboration & KM: MS Teams, SharePoint, Confluence, ServiceNow.
+   * Analytics & Research: Power BI, NVivo.
+   * ERP/CRM: Odoo and related tools.
+   * Productivity & Knowledge Systems: Any tools you regularly use (Notion, Obsidian, etc., if you want to list).
+
+3. **Certifications**
+
+   * KCS Foundation (with a short line explaining it: knowledge-centered service methodology).
+   * Space for upcoming certifications (e.g., AI or cloud-related).
+
+4. **Soft Skills**
+
+   * Strategic thinking and decision-making.
+   * Conceptual and analytical thinking.
+   * Continuous learning and coaching.
+   * Planning, organizing, and stakeholder communication.
+
+---
+
+## 6. Contact Page
+
+**Purpose:** Make it easy to reach you.
+
+**Sections:**
+
+1. **Short Intro**
+
+   * 2–3 sentences inviting contact for:
+
+     * Digital workplace / AI adoption roles.
+     * Research collaborations.
+     * Guest lectures, workshops, or mentoring.
+
+2. **Contact Details**
+
+   * Email (clickable link).
+   * LinkedIn profile (button or icon).
+   * Location: North Vancouver, BC, Canada.
+
+3. **Contact Form**
+
+   * Fields: Name, Email, Organization, Message, “How can I help?”
+   * Optional: dropdown with “Collaboration / Job Opportunity / Speaking / Other”.
+
+---
+
+## 7. Optional Page 1: Research & Publications
+
+**Purpose:** Showcase academic and research credibility.
+
+**Sections:**
+
+1. **Current Research Focus**
+
+   * AI in education
+   * Student perceptions of AI-generated grading and feedback
+   * Knowledge management and digital transformation
+
+2. **Publications & Submissions**
+
+   * List co-authored/solo papers:
+
+     * Submitted article (journal name if allowed, otherwise “submitted to a peer-reviewed journal”).
+   * Your PhD dissertation (title, short abstract).
+   * Any conference proposals or talks.
+
+3. **Methods & Tools**
+
+   * Qualitative research (NVivo coding, thematic analysis).
+   * Mixed-methods or survey design (if applicable).
+
+---
+
+## 8. Optional Page 2: Leadership, Mentoring & Community
+
+**Purpose:** Highlight leadership capabilities beyond job titles.
+
+**Sections:**
+
+1. **People Leadership**
+
+   * Managing and mentoring a team of five at KPMG.
+   * Rotation program for cross-functional knowledge exchange.
+
+2. **Mentoring & Teaching**
+
+   * Mentoring 30+ professionals as part of productivity courses.
+   * Informal teaching/coaching on AI tools and digital workflows.
+
+3. **Community & Speaking**
+
+   * Any talks, webinars, or events you have done or plan to do.
+   * International networking and involvement in professional communities.
+
+---
+
+If you want, next step I can:
+
+* Turn this outline into a Quarto site structure (with `index.qmd`, `projects.qmd`, etc.), or
+* Help you draft the actual text for one page (for example, the Home/About page) in your usual voice.

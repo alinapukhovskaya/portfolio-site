@@ -1,5 +1,21 @@
 {
   "index.qmd": {
     "index.html": "fe1f42d6"
+  },
+  "index copy.qmd": {
+    "index copy.html": "965e6c08"
+  },
+  "skills.qmd": {
+    "skills.html": "513715d6"
+  },
+  "resume.qmd": {
+    "resume.html": "1a1b2c03"
+  },
+  "education.qmd": {
+    "education.html": "db4dfd4f"
+  },
+  "llm input.qmd": {
+    "llm input.html": "2885cea0",
+    "llm input.typ": "08365c98"
   }
 }

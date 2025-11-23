@@ -2,29 +2,141 @@
   {
     "objectID": "index.html#about",
     "href": "index.html#about",
-    "title": "MBA Student Portfolio",
+    "title": "Dr. Alina Pukhovskaya",
     "section": "About",
     "text": "About\nI am a digital workplace strategist and knowledge management consultant with over 15 years of international experience across North America, Europe, Middle East and Asia. My work focuses on helping organizations enhance collaboration, adopt AI tools, and align knowledge practices with strategic goals.\nI am currently pursuing my MBA at University Canada West and I combine academic research with hands-on experience leading digital transformation initiatives for my clients."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
-    "title": "MBA Student Portfolio",
+    "title": "Portfolio",
     "section": "Education",
     "text": "Education\nMaster of Business Administration (MBA)\nUniversity Canada West, Vancouver - Expected 2026\nPh.D. in Economics\nUniversity of Vitez, Bosnia and Herzegovina - 2018\nDiplom-Kauffrau (Equivalent to MBA)\nUniversity of Saarland, Germany - 2010"
   },
   {
     "objectID": "index.html#professional-highlights",
     "href": "index.html#professional-highlights",
-    "title": "MBA Student Portfolio",
+    "title": "Portfolio",
     "section": "Professional Highlights",
     "text": "Professional Highlights\n\nResearch Assistant\nUniversity Canada West, Vancouver - 2025 to Present\nContributed to academic projects, co-author publications, and analyzed qualitative data using NVivo.\n\n\nManager, Knowledge Management\nKPMG US (IT Department), Mexico City - 2020 to 2024\nLed digital transformation for a 2,500-employee IT division. Championed AI adoption, redesigned governance frameworks, and optimized collaboration platforms serving 9,000+ users.\n\n\nKnowledge and Productivity Consultant\nSelf-Employed, Vancouver - 2020 to Present\nProvided consulting and training on knowledge management, AI tools, and productivity strategies for global clients."
   },
   {
     "objectID": "index.html#key-skills-and-strengths",
     "href": "index.html#key-skills-and-strengths",
-    "title": "MBA Student Portfolio",
+    "title": "Portfolio",
     "section": "Key Skills and Strengths",
     "text": "Key Skills and Strengths\n\nDigital Workplace Transformation\n\nKnowledge Management\n\nAI-Enabled Collaboration\n\nProcess Improvement\n\nProject Leadership\n\nCross-Functional Team Management\n\nResearch and Data Analysis\n\nMultilingual Communication (English, Russian, Spanish, German)"
+  },
+  {
+    "objectID": "skills.html#key-skills-and-strengths",
+    "href": "skills.html#key-skills-and-strengths",
+    "title": "Dr. Alina Pukhovskaya",
+    "section": "Key Skills and Strengths",
+    "text": "Key Skills and Strengths\n\nDigital Workplace Transformation\n\nKnowledge Management\n\nAI-Enabled Collaboration\n\nProcess Improvement\n\nProject Leadership\n\nCross-Functional Team Management\n\nResearch and Data Analysis\n\nMultilingual Communication (English, Russian, Spanish, German)"
+  },
+  {
+    "objectID": "resume.html#about",
+    "href": "resume.html#about",
+    "title": "Portfolio",
+    "section": "About",
+    "text": "About\nI am a digital workplace strategist and knowledge management consultant with over 15 years of international experience across North America, Europe, Middle East and Asia. My work focuses on helping organizations enhance collaboration, adopt AI tools, and align knowledge practices with strategic goals.\nI am currently pursuing my MBA at University Canada West and I combine academic research with hands-on experience leading digital transformation initiatives for my clients."
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Portfolio",
+    "section": "Education",
+    "text": "Education\nMaster of Business Administration (MBA)\nUniversity Canada West, Vancouver - Expected 2026\nPh.D. in Economics\nUniversity of Vitez, Bosnia and Herzegovina - 2018\nDiplom-Kauffrau (Equivalent to MBA)\nUniversity of Saarland, Germany - 2010"
+  },
+  {
+    "objectID": "resume.html#professional-highlights",
+    "href": "resume.html#professional-highlights",
+    "title": "Dr. Alina Pukhovskaya",
+    "section": "Professional Highlights",
+    "text": "Professional Highlights\n\nResearch Assistant\nUniversity Canada West, Vancouver - 2025 to Present\nContributed to academic projects, co-author publications, and analyzed qualitative data using NVivo.\n\n\nManager, Knowledge Management\nKPMG US (IT Department), Mexico City - 2020 to 2024\nLed digital transformation for a 2,500-employee IT division. Championed AI adoption, redesigned governance frameworks, and optimized collaboration platforms serving 9,000+ users.\n\n\nKnowledge and Productivity Consultant\nSelf-Employed, Vancouver - 2020 to Present\nProvided consulting and training on knowledge management, AI tools, and productivity strategies for global clients."
+  },
+  {
+    "objectID": "resume.html#key-skills-and-strengths",
+    "href": "resume.html#key-skills-and-strengths",
+    "title": "Portfolio",
+    "section": "Key Skills and Strengths",
+    "text": "Key Skills and Strengths\n\nDigital Workplace Transformation\n\nKnowledge Management\n\nAI-Enabled Collaboration\n\nProcess Improvement\n\nProject Leadership\n\nCross-Functional Team Management\n\nResearch and Data Analysis\n\nMultilingual Communication (English, Russian, Spanish, German)"
+  },
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Dr. Alina Pukhovskaya",
+    "section": "",
+    "text": "format: html: theme: cosmo fontsize: 11pt smooth-scroll: true css: styles.css page-layout: full —"
+  },
+  {
+    "objectID": "education.html#education",
+    "href": "education.html#education",
+    "title": "Dr. Alina Pukhovskaya",
+    "section": "Education",
+    "text": "Education\nMaster of Business Administration (MBA)\nUniversity Canada West, Vancouver - Expected 2026\nPh.D. in Economics\nUniversity of Vitez, Bosnia and Herzegovina - 2018\nDiplom-Kauffrau (Equivalent to MBA)\nUniversity of Saarland, Germany - 2010"
+  },
+  {
+    "objectID": "llm input.html",
+    "href": "llm input.html",
+    "title": "ChatGPT Suggestion for MBA Profile Web Page",
+    "section": "",
+    "text": "Here’s a full outline for your MBA portfolio site, tailored to your real profile and CV (no mention of Coreso, as requested).\n\n\n\n\nHome / About\nResume / CV\nProjects & Case Studies\nSkills & Certifications\nContact\nOptional: Research & Publications\nOptional: Leadership, Mentoring & Community\n\nYou can start with the first 5 and add 6–7 later.\n\n\n\n\nPurpose: Quick “snapshot” of who you are, what you do, and what you’re looking for next.\nSections:\n\nHero Section\n\nName and titles: “Alina Pukhovskaya, MBA, PhD” “Digital Workplace & AI Adoption Strategist”\nOne-sentence positioning: “I help global organizations improve collaboration, knowledge flows, and AI adoption across teams.”\nCall-to-action buttons:\n\n“View Resume” (links to CV page)\n“Explore Projects” (links to Projects page)\n\n\nCurrent Focus\n\n2–3 short paragraphs:\n\nMBA candidate at University Canada West, focusing on digital transformation and AI in education.\nResearch Assistant working on AI in education and student experience.\nConsulting and training on knowledge management, AI tools, and productivity strategies.\n\n\nProfessional Snapshot\n\n3–4 highlighted stats:\n\n“15+ years of international experience across North America, Europe, Asia.”\n“Led knowledge management operations for 2,500+ IT staff in KPMG US.”\n“Optimized collaboration tools for 9,000+ users, reducing inactive accounts by 5,000.”\n“Mentored 30+ professionals in productivity and knowledge workflows with measurable improvements.”\n\n\nInternational Journey\n\nShort narrative about living and working in Germany, Hong Kong/China, Mexico, and Canada.\nEmphasis on cross-cultural communication and multilingual work (English, Russian, Spanish, German).\n\nWhat I’m Looking For\n\nA brief section describing target roles:\n\nDigital workplace / collaboration strategist\nKnowledge management / AI adoption roles\nResearch and education-focused roles linked to AI and learning\n\n\n\n\n\n\n\nPurpose: Rich, readable resume plus a downloadable PDF.\nSections:\n\nDownloadable CV\n\nButton: “Download Full CV (PDF)”\nShort note: “Latest updated: [Month Year].”\n\nProfessional Summary\n\n4–5 lines summarizing:\n\nDigital workplace transformation\nKnowledge management\nAI adoption\nCross-functional leadership and research experience\n\n\nExperience Timeline Present in reverse chronological order, each with role, organization, location, dates, and key bullets (2–4 per role):\n\nResearch Assistant – University Canada West, Vancouver, Canada (2025 – Present)\n\nResearch on AI in education and student perception of AI feedback.\nNVivo coding and thematic analysis.\nCo-authoring and submitting articles to academic journals.\n\nKnowledge & Productivity Consultant – Self-Employed, Vancouver, Canada (2020 – Present)\n\nConsulting and training on knowledge management, AI tools, and productivity for corporate and individual clients.\nMentoring 30+ professionals in APAC, with measurable improvements in productivity and knowledge workflows.\nMultilingual workshops and coaching.\n\nManager, Knowledge Management – KPMG US, Mexico City, Mexico (2020 – 2024)\n\nLeading KM operations for IT department of 2,500 employees.\nDriving adoption of AI and GenAI tools through training, newsletters, webinars, and hackathons.\nOptimizing collaboration platforms for 9,000+ users and delivering cost savings.\n\nPartner & Principal Consultant – Terra Colligo Latam, Mexico City, Mexico (2017 – 2019)\n\nERP/CRM implementation and process redesign for SMEs.\nLeading digital transformation and change management initiatives.\n\nOperations & Business Development Manager – The World Trader, Mexico City, Mexico (2012 – 2014)\n\nBuilding operational processes and online channels.\nImplementing green marketing strategies.\n\nRisk Executive – EOS Hong Kong Limited, Hong Kong (2010 – 2012)\n\nDesigning risk assessment processes and conducting client due diligence.\nRepresenting the company at international trade shows.\n\n\nEducation\n\nMBA – University Canada West, Vancouver, Canada (Expected 2025)\nPhD in Economics – University of Vitez, Bosnia and Herzegovina (2018)\nDiplom-Kauffrau (equivalent to MBA) – University of Saarland, Germany (2010)\n\nCertifications\n\nKCS Foundation, KCS Academy (2021)\nSpace for future certifications (e.g., AI / Microsoft / project management).\n\nLanguages\n\nEnglish (Fluent), Russian (Fluent), Spanish (Fluent), German (Fluent).\n\n\n\n\n\n\nPurpose: Show how you think and what you actually did, with outcomes.\nStructure: Each case study with the same template:\n\nContext\nChallenge\nActions\nResults / Impact\nTools & Methods\n\nSuggested case studies from your background:\n\nCase Study 1 – Digital Workplace Optimization for IT Department\n\nContext: KPMG US IT department, 2,500 employees, 9,000+ users of collaboration platforms.\nChallenge: Fragmented tools, inactive accounts, unclear governance.\nActions: Redesigned governance framework; cleaned up accounts; drove adoption of collaboration tools.\nResults: Reduced inactive accounts by ~5,000 and generated significant annual savings.\nTools: MS Teams, SharePoint, Confluence, ServiceNow.\nTheme: Knowledge management, digital workplace transformation, cost optimization.\n\nCase Study 2 – AI & GenAI Adoption Program\n\nContext: Same KPMG environment.\nChallenge: Make AI tools understandable and useful for non-technical staff.\nActions: Designed newsletters, internal webinars, training materials, and a hackathon focused on AI use cases.\nResults: Increased awareness and use of AI tools, new ideas for process automation.\nTheme: AI adoption strategy, change management.\n\nCase Study 3 – Productivity Mentoring Program (Forte Labs Course)\n\nContext: 30+ professionals across APAC participating in a productivity course.\nChallenge: Help busy professionals improve time management and knowledge workflows.\nActions: 1:1 mentoring, practical workflows, digital organization systems.\nResults: 85% reported measurable improvements in productivity and knowledge workflows.\nTheme: Coaching, productivity systems, behavior change.\n\nCase Study 4 – ERP Implementation for SMEs\n\nContext: Terra Colligo Latam consulting engagements.\nChallenge: SMEs lacking integrated systems for finance, inventory, and operations.\nActions: Process mapping, requirement gathering, Odoo ERP configuration, training.\nResults: Improved reporting, reduced manual work, better visibility into operations.\nTheme: Digital transformation, business process redesign.\n\nCase Study 5 – AI in Education Research Project\n\nContext: Research at University Canada West on AI-generated feedback and student perceptions.\nChallenge: Understand how students perceive AI-graded feedback and fairness.\nActions: Co-designing study, NVivo coding of interviews, drafting and submitting academic paper.\nResults: Manuscript submitted to a peer-reviewed journal; findings on student trust and fairness perceptions.\nTheme: Research design, qualitative methods, AI in education.\n\n\n\n\n\n\nPurpose: Make your capabilities scannable for recruiters and hiring managers.\nSections:\n\nCore Competencies Grouped clusters, each with short descriptive text:\n\nDigital Workplace Transformation\nKnowledge Management & Content Governance\nAI Adoption & Digital Transformation\nProject Management & Process Improvement\nResearch & Data Analysis (including qualitative NVivo work)\nCross-Functional Leadership & Mentoring\nMultilingual Communication & Cross-cultural Collaboration\n\nTechnical & Tools\n\nCollaboration & KM: MS Teams, SharePoint, Confluence, ServiceNow.\nAnalytics & Research: Power BI, NVivo.\nERP/CRM: Odoo and related tools.\nProductivity & Knowledge Systems: Any tools you regularly use (Notion, Obsidian, etc., if you want to list).\n\nCertifications\n\nKCS Foundation (with a short line explaining it: knowledge-centered service methodology).\nSpace for upcoming certifications (e.g., AI or cloud-related).\n\nSoft Skills\n\nStrategic thinking and decision-making.\nConceptual and analytical thinking.\nContinuous learning and coaching.\nPlanning, organizing, and stakeholder communication.\n\n\n\n\n\n\nPurpose: Make it easy to reach you.\nSections:\n\nShort Intro\n\n2–3 sentences inviting contact for:\n\nDigital workplace / AI adoption roles.\nResearch collaborations.\nGuest lectures, workshops, or mentoring.\n\n\nContact Details\n\nEmail (clickable link).\nLinkedIn profile (button or icon).\nLocation: North Vancouver, BC, Canada.\n\nContact Form\n\nFields: Name, Email, Organization, Message, “How can I help?”\nOptional: dropdown with “Collaboration / Job Opportunity / Speaking / Other”.\n\n\n\n\n\n\nPurpose: Showcase academic and research credibility.\nSections:\n\nCurrent Research Focus\n\nAI in education\nStudent perceptions of AI-generated grading and feedback\nKnowledge management and digital transformation\n\nPublications & Submissions\n\nList co-authored/solo papers:\n\nSubmitted article (journal name if allowed, otherwise “submitted to a peer-reviewed journal”).\n\nYour PhD dissertation (title, short abstract).\nAny conference proposals or talks.\n\nMethods & Tools\n\nQualitative research (NVivo coding, thematic analysis).\nMixed-methods or survey design (if applicable).\n\n\n\n\n\n\nPurpose: Highlight leadership capabilities beyond job titles.\nSections:\n\nPeople Leadership\n\nManaging and mentoring a team of five at KPMG.\nRotation program for cross-functional knowledge exchange.\n\nMentoring & Teaching\n\nMentoring 30+ professionals as part of productivity courses.\nInformal teaching/coaching on AI tools and digital workflows.\n\nCommunity & Speaking\n\nAny talks, webinars, or events you have done or plan to do.\nInternational networking and involvement in professional communities.\n\n\n\nIf you want, next step I can:\n\nTurn this outline into a Quarto site structure (with index.qmd, projects.qmd, etc.), or\nHelp you draft the actual text for one page (for example, the Home/About page) in your usual voice."
+  },
+  {
+    "objectID": "llm input.html#site-structure-pages",
+    "href": "llm input.html#site-structure-pages",
+    "title": "ChatGPT Suggestion for MBA Profile Web Page",
+    "section": "",
+    "text": "Home / About\nResume / CV\nProjects & Case Studies\nSkills & Certifications\nContact\nOptional: Research & Publications\nOptional: Leadership, Mentoring & Community\n\nYou can start with the first 5 and add 6–7 later."
+  },
+  {
+    "objectID": "llm input.html#home-about",
+    "href": "llm input.html#home-about",
+    "title": "ChatGPT Suggestion for MBA Profile Web Page",
+    "section": "",
+    "text": "Purpose: Quick “snapshot” of who you are, what you do, and what you’re looking for next.\nSections:\n\nHero Section\n\nName and titles: “Alina Pukhovskaya, MBA, PhD” “Digital Workplace & AI Adoption Strategist”\nOne-sentence positioning: “I help global organizations improve collaboration, knowledge flows, and AI adoption across teams.”\nCall-to-action buttons:\n\n“View Resume” (links to CV page)\n“Explore Projects” (links to Projects page)\n\n\nCurrent Focus\n\n2–3 short paragraphs:\n\nMBA candidate at University Canada West, focusing on digital transformation and AI in education.\nResearch Assistant working on AI in education and student experience.\nConsulting and training on knowledge management, AI tools, and productivity strategies.\n\n\nProfessional Snapshot\n\n3–4 highlighted stats:\n\n“15+ years of international experience across North America, Europe, Asia.”\n“Led knowledge management operations for 2,500+ IT staff in KPMG US.”\n“Optimized collaboration tools for 9,000+ users, reducing inactive accounts by 5,000.”\n“Mentored 30+ professionals in productivity and knowledge workflows with measurable improvements.”\n\n\nInternational Journey\n\nShort narrative about living and working in Germany, Hong Kong/China, Mexico, and Canada.\nEmphasis on cross-cultural communication and multilingual work (English, Russian, Spanish, German).\n\nWhat I’m Looking For\n\nA brief section describing target roles:\n\nDigital workplace / collaboration strategist\nKnowledge management / AI adoption roles\nResearch and education-focused roles linked to AI and learning"
+  },
+  {
+    "objectID": "llm input.html#resume-cv-page",
+    "href": "llm input.html#resume-cv-page",
+    "title": "ChatGPT Suggestion for MBA Profile Web Page",
+    "section": "",
+    "text": "Purpose: Rich, readable resume plus a downloadable PDF.\nSections:\n\nDownloadable CV\n\nButton: “Download Full CV (PDF)”\nShort note: “Latest updated: [Month Year].”\n\nProfessional Summary\n\n4–5 lines summarizing:\n\nDigital workplace transformation\nKnowledge management\nAI adoption\nCross-functional leadership and research experience\n\n\nExperience Timeline Present in reverse chronological order, each with role, organization, location, dates, and key bullets (2–4 per role):\n\nResearch Assistant – University Canada West, Vancouver, Canada (2025 – Present)\n\nResearch on AI in education and student perception of AI feedback.\nNVivo coding and thematic analysis.\nCo-authoring and submitting articles to academic journals.\n\nKnowledge & Productivity Consultant – Self-Employed, Vancouver, Canada (2020 – Present)\n\nConsulting and training on knowledge management, AI tools, and productivity for corporate and individual clients.\nMentoring 30+ professionals in APAC, with measurable improvements in productivity and knowledge workflows.\nMultilingual workshops and coaching.\n\nManager, Knowledge Management – KPMG US, Mexico City, Mexico (2020 – 2024)\n\nLeading KM operations for IT department of 2,500 employees.\nDriving adoption of AI and GenAI tools through training, newsletters, webinars, and hackathons.\nOptimizing collaboration platforms for 9,000+ users and delivering cost savings.\n\nPartner & Principal Consultant – Terra Colligo Latam, Mexico City, Mexico (2017 – 2019)\n\nERP/CRM implementation and process redesign for SMEs.\nLeading digital transformation and change management initiatives.\n\nOperations & Business Development Manager – The World Trader, Mexico City, Mexico (2012 – 2014)\n\nBuilding operational processes and online channels.\nImplementing green marketing strategies.\n\nRisk Executive – EOS Hong Kong Limited, Hong Kong (2010 – 2012)\n\nDesigning risk assessment processes and conducting client due diligence.\nRepresenting the company at international trade shows.\n\n\nEducation\n\nMBA – University Canada West, Vancouver, Canada (Expected 2025)\nPhD in Economics – University of Vitez, Bosnia and Herzegovina (2018)\nDiplom-Kauffrau (equivalent to MBA) – University of Saarland, Germany (2010)\n\nCertifications\n\nKCS Foundation, KCS Academy (2021)\nSpace for future certifications (e.g., AI / Microsoft / project management).\n\nLanguages\n\nEnglish (Fluent), Russian (Fluent), Spanish (Fluent), German (Fluent)."
+  },
+  {
+    "objectID": "llm input.html#projects-case-studies",
+    "href": "llm input.html#projects-case-studies",
+    "title": "ChatGPT Suggestion for MBA Profile Web Page",
+    "section": "",
+    "text": "Purpose: Show how you think and what you actually did, with outcomes.\nStructure: Each case study with the same template:\n\nContext\nChallenge\nActions\nResults / Impact\nTools & Methods\n\nSuggested case studies from your background:\n\nCase Study 1 – Digital Workplace Optimization for IT Department\n\nContext: KPMG US IT department, 2,500 employees, 9,000+ users of collaboration platforms.\nChallenge: Fragmented tools, inactive accounts, unclear governance.\nActions: Redesigned governance framework; cleaned up accounts; drove adoption of collaboration tools.\nResults: Reduced inactive accounts by ~5,000 and generated significant annual savings.\nTools: MS Teams, SharePoint, Confluence, ServiceNow.\nTheme: Knowledge management, digital workplace transformation, cost optimization.\n\nCase Study 2 – AI & GenAI Adoption Program\n\nContext: Same KPMG environment.\nChallenge: Make AI tools understandable and useful for non-technical staff.\nActions: Designed newsletters, internal webinars, training materials, and a hackathon focused on AI use cases.\nResults: Increased awareness and use of AI tools, new ideas for process automation.\nTheme: AI adoption strategy, change management.\n\nCase Study 3 – Productivity Mentoring Program (Forte Labs Course)\n\nContext: 30+ professionals across APAC participating in a productivity course.\nChallenge: Help busy professionals improve time management and knowledge workflows.\nActions: 1:1 mentoring, practical workflows, digital organization systems.\nResults: 85% reported measurable improvements in productivity and knowledge workflows.\nTheme: Coaching, productivity systems, behavior change.\n\nCase Study 4 – ERP Implementation for SMEs\n\nContext: Terra Colligo Latam consulting engagements.\nChallenge: SMEs lacking integrated systems for finance, inventory, and operations.\nActions: Process mapping, requirement gathering, Odoo ERP configuration, training.\nResults: Improved reporting, reduced manual work, better visibility into operations.\nTheme: Digital transformation, business process redesign.\n\nCase Study 5 – AI in Education Research Project\n\nContext: Research at University Canada West on AI-generated feedback and student perceptions.\nChallenge: Understand how students perceive AI-graded feedback and fairness.\nActions: Co-designing study, NVivo coding of interviews, drafting and submitting academic paper.\nResults: Manuscript submitted to a peer-reviewed journal; findings on student trust and fairness perceptions.\nTheme: Research design, qualitative methods, AI in education."
+  },
+  {
+    "objectID": "llm input.html#skills-certifications-page",
+    "href": "llm input.html#skills-certifications-page",
+    "title": "ChatGPT Suggestion for MBA Profile Web Page",
+    "section": "",
+    "text": "Purpose: Make your capabilities scannable for recruiters and hiring managers.\nSections:\n\nCore Competencies Grouped clusters, each with short descriptive text:\n\nDigital Workplace Transformation\nKnowledge Management & Content Governance\nAI Adoption & Digital Transformation\nProject Management & Process Improvement\nResearch & Data Analysis (including qualitative NVivo work)\nCross-Functional Leadership & Mentoring\nMultilingual Communication & Cross-cultural Collaboration\n\nTechnical & Tools\n\nCollaboration & KM: MS Teams, SharePoint, Confluence, ServiceNow.\nAnalytics & Research: Power BI, NVivo.\nERP/CRM: Odoo and related tools.\nProductivity & Knowledge Systems: Any tools you regularly use (Notion, Obsidian, etc., if you want to list).\n\nCertifications\n\nKCS Foundation (with a short line explaining it: knowledge-centered service methodology).\nSpace for upcoming certifications (e.g., AI or cloud-related).\n\nSoft Skills\n\nStrategic thinking and decision-making.\nConceptual and analytical thinking.\nContinuous learning and coaching.\nPlanning, organizing, and stakeholder communication."
+  },
+  {
+    "objectID": "llm input.html#contact-page",
+    "href": "llm input.html#contact-page",
+    "title": "ChatGPT Suggestion for MBA Profile Web Page",
+    "section": "",
+    "text": "Purpose: Make it easy to reach you.\nSections:\n\nShort Intro\n\n2–3 sentences inviting contact for:\n\nDigital workplace / AI adoption roles.\nResearch collaborations.\nGuest lectures, workshops, or mentoring.\n\n\nContact Details\n\nEmail (clickable link).\nLinkedIn profile (button or icon).\nLocation: North Vancouver, BC, Canada.\n\nContact Form\n\nFields: Name, Email, Organization, Message, “How can I help?”\nOptional: dropdown with “Collaboration / Job Opportunity / Speaking / Other”."
+  },
+  {
+    "objectID": "llm input.html#optional-page-1-research-publications",
+    "href": "llm input.html#optional-page-1-research-publications",
+    "title": "ChatGPT Suggestion for MBA Profile Web Page",
+    "section": "",
+    "text": "Purpose: Showcase academic and research credibility.\nSections:\n\nCurrent Research Focus\n\nAI in education\nStudent perceptions of AI-generated grading and feedback\nKnowledge management and digital transformation\n\nPublications & Submissions\n\nList co-authored/solo papers:\n\nSubmitted article (journal name if allowed, otherwise “submitted to a peer-reviewed journal”).\n\nYour PhD dissertation (title, short abstract).\nAny conference proposals or talks.\n\nMethods & Tools\n\nQualitative research (NVivo coding, thematic analysis).\nMixed-methods or survey design (if applicable)."
+  },
+  {
+    "objectID": "llm input.html#optional-page-2-leadership-mentoring-community",
+    "href": "llm input.html#optional-page-2-leadership-mentoring-community",
+    "title": "ChatGPT Suggestion for MBA Profile Web Page",
+    "section": "",
+    "text": "Purpose: Highlight leadership capabilities beyond job titles.\nSections:\n\nPeople Leadership\n\nManaging and mentoring a team of five at KPMG.\nRotation program for cross-functional knowledge exchange.\n\nMentoring & Teaching\n\nMentoring 30+ professionals as part of productivity courses.\nInformal teaching/coaching on AI tools and digital workflows.\n\nCommunity & Speaking\n\nAny talks, webinars, or events you have done or plan to do.\nInternational networking and involvement in professional communities.\n\n\n\nIf you want, next step I can:\n\nTurn this outline into a Quarto site structure (with index.qmd, projects.qmd, etc.), or\nHelp you draft the actual text for one page (for example, the Home/About page) in your usual voice."
   }
 ]
