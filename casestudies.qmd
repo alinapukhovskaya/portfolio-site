@@ -1,0 +1,124 @@
+---
+format:
+  html:
+    theme: cosmo
+    fontsize: 11pt
+    smooth-scroll: true
+    css: styles.css
+---
+![](images/alina-headshot.jpg){width="120px" .headshot}
+
+
+# **Dr. Alina Pukhovskaya**
+**Digital Workplace and AI Strategist**  
+North Vancouver, BC | [LinkedIn](https://www.linkedin.com/in/alinapukhovskaya) | [Download Resume](downloads/CV_Alina_Pukhovskaya_2025.pdf)
+
+
+<div class="section-card">
+
+## Case Study 1 – Digital Workplace Optimization for IT Department
+
+**Context:**  
+KPMG US IT department with 2,500 employees and more than 9,000 users of collaboration platforms.
+
+**Challenge:**  
+Fragmented tools, inactive accounts, and unclear governance practices.
+
+**Actions:**  
+Redesigned the governance framework, cleaned up inactive accounts, and supported adoption of key collaboration tools.
+
+**Results:**  
+Reduced approximately 5,000 inactive accounts and contributed to significant annual cost savings.
+
+**Tools:**  
+MS Teams, SharePoint, Confluence, ServiceNow.
+
+**Theme:**  
+Knowledge management, digital workplace transformation, cost optimization.
+
+</div>
+
+<div class="section-card">
+
+## Case Study 2 – AI & GenAI Adoption Program
+
+**Context:**  
+KPMG US IT environment.
+
+**Challenge:**  
+Make AI and GenAI tools understandable and usable for non-technical staff.
+
+**Actions:**  
+Designed newsletters, internal webinars, training materials, and a hackathon focused on practical AI use cases.
+
+**Results:**  
+Increased awareness and adoption of AI tools and generated new ideas for process automation.
+
+**Theme:**  
+AI adoption strategy, change management.
+
+</div>
+
+<div class="section-card">
+
+## Case Study 3 – Productivity Mentoring Program (Forte Labs Course)
+
+**Context:**  
+Over 30 professionals across APAC participating in a structured productivity program.
+
+**Challenge:**  
+Help busy professionals improve time management and knowledge workflows.
+
+**Actions:**  
+Provided 1:1 mentoring, developed practical workflows, and introduced digital organization systems.
+
+**Results:**  
+Eighty-five percent of participants reported measurable improvements in productivity and knowledge workflows.
+
+**Theme:**  
+Coaching, productivity systems, behavior change.
+
+</div>
+
+<div class="section-card">
+
+## Case Study 4 – ERP Implementation for SMEs
+
+**Context:**  
+Consulting engagements at Terra Colligo Latam involving small and medium-sized businesses.
+
+**Challenge:**  
+SMEs lacked integrated systems for finance, inventory, and operations.
+
+**Actions:**  
+Conducted process mapping and requirement gathering, configured Odoo ERP modules, and facilitated staff training.
+
+**Results:**  
+Improved operational reporting, reduced manual work, and increased visibility across core business functions.
+
+**Theme:**  
+Digital transformation, business process redesign.
+
+</div>
+
+
+<div class="section-card">
+
+## Case Study 5 – AI in Education Research Project
+
+**Context:**  
+Research at University Canada West on student perceptions of AI-generated academic feedback.
+
+**Challenge:**  
+Understand how students interpret AI-graded feedback and whether they view it as fair and trustworthy.
+
+**Actions:**  
+Co-designed the research, performed NVivo coding on interview data, and drafted and submitted an academic manuscript.
+
+**Results:**  
+Manuscript submitted to a peer-reviewed journal; emerging insights highlight how students evaluate trust and fairness in AI-driven assessment.
+
+**Theme:**  
+Research design, qualitative methods, AI in education.
+
+</div>

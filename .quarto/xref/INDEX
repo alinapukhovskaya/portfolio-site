@@ -17,5 +17,8 @@
   "llm input.qmd": {
     "llm input.html": "2885cea0",
     "llm input.typ": "08365c98"
+  },
+  "casestudies.qmd": {
+    "casestudies.html": "c5e1c5c7"
   }
 }

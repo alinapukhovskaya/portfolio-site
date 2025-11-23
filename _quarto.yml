@@ -9,13 +9,13 @@ website:
   navbar:
       left:
         - href: index.qmd
-          text: Home
+          text: About
         - href: resume.qmd
           text: Resume
         - href: education.qmd
           text: Education
-        - href: skills.qmd
-          text: Skills
+        - href: casestudies.qmd
+          text: Case Studies
 
   page-footer:
       left: "<span id='y'></span>Dr. Alina Pukhovskaya"

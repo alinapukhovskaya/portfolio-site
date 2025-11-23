@@ -30,3 +30,30 @@ North Vancouver, BC | [LinkedIn](https://www.linkedin.com/in/alinapukhovskaya) |
 
 </div>
 
+<div class="section-card">
+
+## **Key Skills and Strengths**
+
+### **Core Competencies**
+- Digital Workplace Transformation
+- Knowledge Management & Content Governance
+- AI Adoption & Digital Transformation
+- Project Management & Process Improvement
+- Research & Data Analysis (including qualitative NVivo work)
+- Cross-Functional Leadership & Mentoring
+- Multilingual Communication & Cross-cultural Collaboration (English, Russian, Spanish, German)
+
+### **Technical & Tools**
+- Collaboration & KM: MS Teams, SharePoint, Confluence, ServiceNow.
+- Analytics & Research: Power BI, NVivo.
+- ERP/CRM: Odoo and related tools.
+- Productivity & Knowledge Systems: Any tools you regularly use (Notion, Obsidian, etc., if you want to list).
+
+### **Soft Skills**
+
+- Strategic thinking and decision-making.
+- Conceptual and analytical thinking.
+- Continuous learning and coaching.
+- Planning, organizing, and stakeholder communication.
+
+</div>

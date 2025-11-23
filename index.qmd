@@ -16,10 +16,53 @@ North Vancouver, BC | [LinkedIn](https://www.linkedin.com/in/alinapukhovskaya) |
 
 <div class="section-card">
 
-## **About**
+## **Current Focus**
 
-I am a digital workplace strategist and knowledge management consultant with over 15 years of international experience across North America, Europe, Middle East and Asia. My work focuses on helping organizations enhance collaboration, adopt AI tools, and align knowledge practices with strategic goals.  
+I am completing my MBA at University Canada West, where I focus on digital transformation, AI in education, and how technology changes the way people learn and work. Alongside my studies, I work as a Research Assistant examining how students perceive AI-generated feedback, fairness, and trust in academic environments.
 
-I am currently pursuing my MBA at University Canada West and I combine academic research with hands-on experience leading digital transformation initiatives for my clients.
+I also advise professionals and teams on how to work more effectively with information. My recent work includes training on knowledge management, optimizing digital collaboration tools, and helping people integrate AI into their daily workflows. Across all projects, I focus on clarity, structure, and practical improvements that reduce cognitive load.
+
+Before moving into research and consulting, I spent several years in knowledge management within large technology and consulting environments. This experience shapes my interest in helping organizations adopt digital tools in a grounded and human-centered way.
+
+</div>
+
+
+<div class="section-card">
+
+## **Professional Snapshot**
+
+Over 15 years of international experience across North America, Europe, Asia, and Latin America.
+
+Managed knowledge operations for an IT organization of 2,500 employees within a global consulting firm.
+
+Optimized collaboration tools for more than 9,000 users, reducing inactive accounts by roughly 5,000 and improving governance.
+
+Mentored over 30 professionals on productivity, information organization, and knowledge workflows, with measurable improvements.
+</div>
+
+<div class="section-card">
+
+## **International Journey**
+
+My professional path spans Germany, Hong Kong, Mexico, and Canada. Working across different cultures and systems shaped my approach to collaboration, communication, and problem-solving. I am fluent in English, Russian, Spanish, and German, and have worked in multilingual environments throughout my career.
+
+Each move required adjusting to new contexts, industries, and ways of working, which strengthened my adaptability and understanding of global teamwork. These experiences continue to inform how I support teams navigating change, digital tools, and new ways of working.
+</div>
+
+<div class="section-card">
+
+## **What I Am Looking For**
+
+I am open to opportunities where I can contribute to how organizations learn, collaborate, and integrate AI tools in meaningful ways. I am particularly interested in roles related to:
+
+- Digital workplace and collaboration strategy
+
+- Knowledge management and organizational learning
+
+- AI adoption in corporate or educational settings
+
+- Research roles focused on technology, learning, and human performance
+
+My goal is to bring structure, clarity, and a research-informed perspective to environments undergoing digital transition.
 
 </div>
