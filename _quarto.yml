@@ -24,7 +24,6 @@ website:
 format:
   html:
     theme: cosmo
-    toc: true
     toc-location: right
     page-layout: article
     css: styles.css

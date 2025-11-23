@@ -5,7 +5,6 @@ format:
     fontsize: 11pt
     smooth-scroll: true
     css: styles.css
-page-layout: full
 ---
 ![](images/alina-headshot.jpg){width="120px" .headshot}
 

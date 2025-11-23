@@ -96,7 +96,7 @@ li{ margin: .2rem 0; }
 
   /* ★ Added to control width */
   max-width: 900px;      /* upper limit (make wider if needed) */
-  min-width: 600px;      /* lower limit so it never shrinks too much */
+  min-width: 700px;      /* lower limit so it never shrinks too much */
   width: 100%;           /* allows responsive expansion */
 }
 
