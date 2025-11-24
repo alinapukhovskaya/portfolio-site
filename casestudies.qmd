@@ -65,7 +65,7 @@ AI adoption strategy, change management.
 
 <div class="section-card">
 
-## Case Study 3 – Productivity Mentoring Program (Forte Labs Course)
+## Case Study 3 – Productivity Mentoring Program (Forte Labs)
 
 **Context:**  
 Over 30 professionals across APAC participating in a structured productivity program.
