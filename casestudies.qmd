@@ -36,6 +36,10 @@ MS Teams, SharePoint, Confluence, ServiceNow.
 **Theme:**  
 Knowledge management, digital workplace transformation, cost optimization.
 
+<div class="section-card-footer">
+  ![](images/kpmg.png){.company-logo}
+</div>
+
 </div>
 
 <div class="section-card">
@@ -56,6 +60,10 @@ Increased awareness and adoption of AI tools and generated new ideas for process
 
 **Theme:**  
 AI adoption strategy, change management.
+
+<div class="section-card-footer">
+  ![](images/kpmg.png){.company-logo}
+</div>
 
 </div>
 
