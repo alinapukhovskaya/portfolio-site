@@ -1,10 +1,6 @@
 ## **Commentary on Changes**
 
-
-The revised MBA Student Portfolio
-
-
-The revised MBA Student Portfolio comes with a more refined and publication-ready version of the earlier LLM draft. The revised version is better formatted, with all information organized into a single, easily readable online layout. The geographic regions listed in the revised version have been updated from "North America, Europe, and Asia" to "North America, Europe, Middle East, and Asia." The proposed completion date of the MBA degree program has been revised from 2025 to 2026. The "About" section of the revised version is \slightly rewritten for better readability, stressing the combination of research work as an academic pursuit and experience in the field of consulting. I removed graphics, outline information, and explanatory text in order to have a more professional, publication-ready document. The revised version appears more natural in its text flow, more harmonious with online publishing guidelines, as well as more personal than the earlier LLM outline-format draft.
+The final version of my MBA Portfolio Website combines the best aspects of the previous outline written using the AI tool and adapts them according to my personal preferences and pre-designed website outline. The about section of the website has been expanded using the suggested themes, but the writing was entirely my own based on my professional background and global experience. Starting from the previous outline written by the AI tool, only the case study part of the website has been mainly incorporated and revamped according to my own writing style and accomplishments. Some of the suggested pages from the previous outline could not be used because of my preference to keep my website simple and professional. The resume pages suggested from the previous outline were also not used because my education and skills section of the resume has been combined to create a simpler layout of the website. Lastly, the website also did not create separate pages because of my decision to link the LinkedIn account from the website’s home pages. The final version of my MBA portfolio website has been written according to the best of my writing preferences and the AI-generated results because of the need to create a simple website.
 
 ## **LLM Output**
 
